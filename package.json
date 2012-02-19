@@ -11,7 +11,7 @@
   "main": "index.js",
   "bin": { "share": "./share.js" },
   "dependencies": {
-    "stack": ">=0.0.3",
-    "simple-mime": ">=0.0.1"
+    "stack": "https://github.com/XULRunner42/stack/tarball/master",
+    "simple-mime": "https://github.com/XULRunner42/simple-mime/tarball/master"
   }
 }
